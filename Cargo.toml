@@ -17,7 +17,7 @@ time = "~0.1.33"
 
 slack-hook = "0.1.2"
 small-logger = "0.2.0"
-openssl = "0.8.2"
+openssl = "0.9.0"
 
 [dependencies.hyper]
 version = "0.9.10"
