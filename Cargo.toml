@@ -13,7 +13,7 @@ license= "MIT"
 
 [dependencies]
 rustc-serialize = "0.3"
-time = "~0.1.33"
+time = "~0.2.0"
 
 slack-hook = "0.1.2"
 small-logger = "0.2.0"
